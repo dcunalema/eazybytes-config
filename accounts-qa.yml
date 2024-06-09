@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message : "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name : "Luis QA Lead"
+    email : "luis.cu@gmail.com"
+  onCallSupport :
+    -(555) 9950547885
+    -(555) 9950547886

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message : "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name : "Luis C. - Developer"
+    email : "luis.cu@gmail.com"
+  onCallSupport :
+    -(555) 9950547885
+    -(555) 9950547886
