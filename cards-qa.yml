@@ -5,7 +5,7 @@ cards:
   message : "Welcome to EazyBank cards related QA APIs"
   contactDetails:
     name : "Luis QA Lead"
-    email : "7f2276dc7331e874b25e2429968c237e226f395892b0d859d50a8cec585de82721e78dfbed998094f5492d3f69ffbeeb"
+    email : "{cipher}7f2276dc7331e874b25e2429968c237e226f395892b0d859d50a8cec585de82721e78dfbed998094f5492d3f69ffbeeb"
   onCallSupport :
     -(555) 9950547885
     -(555) 9950547886
