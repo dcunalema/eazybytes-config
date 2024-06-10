@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message : "Welcome to EazyBank cards related Production APIs"
+  message : "Welcome to EazyBank cards related ProductionD APIs"
   contactDetails:
     name : "Luis - Product Owner"
     email : "{cipher}7f2276dc7331e874b25e2429968c237e226f395892b0d859d50a8cec585de82721e78dfbed998094f5492d3f69ffbeeb"
