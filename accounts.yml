@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message : "Welcome to EazyBank accounts related local docker--- APIs"
+  message : "Welcome to EazyBank accounts related local docker---TT APIs"
   contactDetails:
     name : "Luis C. - Developer"
     email : "{cipher}7f2276dc7331e874b25e2429968c237e226f395892b0d859d50a8cec585de82721e78dfbed998094f5492d3f69ffbeeb"
